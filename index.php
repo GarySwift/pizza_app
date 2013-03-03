@@ -13,14 +13,7 @@
 		<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>   
         
         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-		<ul data-role="listview" data-inset="true" >
-          <li><a href="choose_town.html" data-transition="slidedown"><h3> Some Sushis</h3></a></li>
-          <li><a href="choose_town.html"  data-transition="slidedown"><h3> A Pizza </h3></a></li>
-          <li><a href="choose_town.html"  data-transition="slidedown"><h3> A Kebap</h3></a></li>
-          <li><a href="choose_town.html"  data-transition="slidedown"><h3> A Burger</h3></a></li>
-          <li><a href="choose_town.html"  data-transition="slidedown"><h3> Some Nems </h3></a></li>
-          <li><a href="choose_town.html"  data-transition="slidedown"><h3> Something more traditional</h3></a></li>	
-        </ul>	
+		
 <?php
 	/******** End of home page ***********/
 	generatePageFoot();
